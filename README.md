@@ -7,8 +7,8 @@ a Python chatbot that recognize user intents and responds accordingly.
 - Interactive command-line interface
 - Demonstrates basic NLP and AI logic
 
-# How to Run
-1. Make sure Python is installed
-2. Run the program:
+# How to run
+
+ Run the program:
 ```bash
 python simple_chatbot.py
